@@ -1,0 +1,28 @@
+.item h3 {
+  margin: 0.5rem 0;
+  font-size: 1.025rem;
+  word-wrap: break-word;
+}
+
+.item header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.username {
+  border-radius: 30px;
+  background-color: white;
+  color: black;
+  font-size: 1.5rem;
+}
+
+.item p {
+  color: #3a3a3a;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item button {
+  text-align: center;
+}
