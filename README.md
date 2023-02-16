@@ -42,7 +42,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ![image](https://user-images.githubusercontent.com/87084078/219418142-b8319696-7619-4c10-9d0a-549a020c8e7d.png)
 
-<img width="229" alt="image" src="https://user-images.githubusercontent.com/87084078/219418569-3b2658c6-c9ac-418d-b88c-25c347db27f9.png">
+![image](https://user-images.githubusercontent.com/87084078/219418895-98f9e717-dcf9-475b-93b4-812e6e60d5da.png)
 
 
 
