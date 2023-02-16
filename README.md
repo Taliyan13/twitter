@@ -32,3 +32,17 @@ The application can then be accessed through your preferred web browser at "loca
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+## Application and Database Structure
+
+![image](https://user-images.githubusercontent.com/87084078/219418081-5fcea6ca-29a7-4b3c-a86b-60f2b4afaabe.png)
+
+![image](https://user-images.githubusercontent.com/87084078/219418105-7e013bdb-c28a-40ef-80bd-159be81b3bb4.png)
+
+![image](https://user-images.githubusercontent.com/87084078/219418142-b8319696-7619-4c10-9d0a-549a020c8e7d.png)
+
+<img width="229" alt="image" src="https://user-images.githubusercontent.com/87084078/219418569-3b2658c6-c9ac-418d-b88c-25c347db27f9.png">
+
+
+
